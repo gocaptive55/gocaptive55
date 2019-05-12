@@ -32,13 +32,9 @@
     "uniqCompNum": 54,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///Users/aimeejette/Library/Mobile%20Documents/com~apple~CloudDocs/Hofstra%20on%20the%20Cloud/REHAB268/FINAL%20WEB%20PROJECT%20BACKUP",
     "favicon": "",
     "noImageResize": "",
-    "сanonical-url": "",
-    "gitHubName": "gocaptive55",
-    "gitHubPath": ""
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
